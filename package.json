@@ -1,0 +1,17 @@
+{
+  "name": "haven-core-js-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "comment": "https://github.com/haven-protocol-org/haven-core-js",
+  "dependencies": {
+    "haven-core-js": "/home/justin/haven-forks/haven-core-js",
+    "mymonero-core-js": "^17.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
